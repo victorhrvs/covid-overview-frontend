@@ -1,0 +1,32 @@
+const estados = [
+    {label: "Todos os Estados", value: "TOTAL"},
+    {label: "RO", value: "RO" },
+    {label: "AC", value: "AC" },
+    {label: "AM", value: "AM" },
+    {label: "RR", value: "RR" },
+    {label: "PA", value: "PA" },
+    {label: "AP", value: "AP" },
+    {label: "TO", value: "TO" },
+    {label: "MA", value: "MA" },
+    {label: "PI", value: "PI" },
+    {label: "CE", value: "CE" },
+    {label: "RN", value: "RN" },
+    {label: "PB", value: "PB" },
+    {label: "PE", value: "PE" },
+    {label: "AL", value: "AL" },
+    {label: "SE", value: "SE" },
+    {label: "BA", value: "BA" },
+    {label: "MG", value: "MG" },
+    {label: "ES", value: "ES" },
+    {label: "RJ", value: "RJ" },
+    {label: "SP", value: "SP" },
+    {label: "PR", value: "PR" },
+    {label: "SC", value: "SC" },
+    {label: "RS", value: "RS" },
+    {label: "MS", value: "MS" },
+    {label: "MT", value: "MT" },
+    {label: "GO", value: "GO" },
+    {label: "DF", value: "DF" }
+  ];
+
+export default estados;
