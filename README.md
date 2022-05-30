@@ -5,3 +5,6 @@ Foi realizada a tela de seleção de filtros (data e estado), onde a data possui
 
 ##Instalação
 `$ yarn install`
+
+##Execução
+`expo web` ou `expo android` ou ainda `expo ios`
